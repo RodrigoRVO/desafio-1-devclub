@@ -11,4 +11,4 @@ pois foi um dos primeiros que fiz com os desafios da DevClub, fico feliz em pode
 
 <img src="https://github.com/RodrigoRVO/desafio-1-devclub/blob/main/foto-pagina.png?raw=true" />
 
-<img src="https://github.com/RodrigoRVO/desafio-1-devclub/blob/main/foto-responsiva.png?raw=true" center />
+<img src="https://github.com/RodrigoRVO/desafio-1-devclub/blob/main/foto-responsiva.png?raw=true"  align = center />
