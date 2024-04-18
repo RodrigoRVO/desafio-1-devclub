@@ -1,5 +1,5 @@
 
-<h1 align = center >Primeira desafio feito no curso DevClub <h1/> 
+<h1 align = center >Primeiro desafio feito no curso DevClub <h1/> 
   <br>
   <br>
 
@@ -11,4 +11,4 @@ pois foi um dos primeiros que fiz com os desafios da DevClub, fico feliz em pode
 
 <img src="https://github.com/RodrigoRVO/desafio-1-devclub/blob/main/foto-pagina.png?raw=true" />
 
-<img src="https://github.com/RodrigoRVO/desafio-1-devclub/blob/main/foto-responsiva.png?raw=true" />
+<img src="https://github.com/RodrigoRVO/desafio-1-devclub/blob/main/foto-responsiva.png?raw=true" center />
